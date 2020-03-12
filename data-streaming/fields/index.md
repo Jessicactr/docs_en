@@ -1,6 +1,6 @@
 # Fields
 
-Azion provides a wide range of variables related to access to its contents and applications. You can feed your big data and stream processing platforms, selecting templates created and maintained by Azion, which have a collection of variables available; or customize your own Data Set in the [Data Streaming]({%tl documentation_products_data_streaming %}) product.
+Azion provides a wide range of variables related to access to its contents and applications. You can feed your big data and stream processing platforms, selecting templates created and maintained by Azion, which have a collection of variables available; or customize your own Data Set in the [Data Streaming](https://www.azion.com/en/products/data-streaming/) product.
 
 | Variable | Source of data | Description |
 |----------|-----------------|-----------|
@@ -52,4 +52,4 @@ Azion provides a wide range of variables related to access to its contents and a
 
 Didn't find what you were looking for? [Open a support ticket.](https://tickets.azion.com/)
 
-[Edit this page](#) on GitHub.
+[Edit this page](https://github.com/Jessicactr/docs_en/edit/master/data-streaming/fields/index.md) on GitHub.
